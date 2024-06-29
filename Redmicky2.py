@@ -127,7 +127,7 @@ def drawmicky():
 drawmicky()
 
 go_to(-100,-280)
-tur.write("""Coding with Sadia\n       sMicky""",
+tur.write("""Coding with Sadia\n       Micky""",
           font=("Arial", 20, "bold"))
 tur.hideturtle()
 
